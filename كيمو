@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+    <header>
+        SEVEN WONDERS OF THE WORLD
+    </header>
+        <div class="box" id="item1">
+            <img src="https://www.naturalworldsafaris.com/media/3018/nws-st-india-taj-mahal.jpg">
+        </div>
+        <div class="box" id="item2">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg">
+        </div>
+        <div class="box" id="item3">
+            <img src="https://images.unsplash.com/photo-1561577101-aa749bffbb70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2hlbiUyMGl0emElMkMlMjBtZXhpY298ZW58MHx8MHx8&w=1000&q=80">
+        </div>
+        <div class="box" id="item4">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1200px-Machu_Picchu%2C_Peru.jpg">
+        </div>
+        <div class="box" id="item5">
+            <img src="https://cdn.britannica.com/54/150754-050-5B93A950/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg">
+        </div>
+        <div class="box" id="item6">
+            <img src="https://www.worldatlas.com/r/w960-q80/upload/ba/36/57/shutterstock-1030695895.jpg">
+        </div>
+        <div class="box" id="item7">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tJq-WY89G3-K8hnahtOPUGVQoFEmM84kBA&usqp=CAU">
+        </div>
+        <footer>
+            2021 &copy; This is made by Deepika
+        </footer>
+    </body>
+</html>
